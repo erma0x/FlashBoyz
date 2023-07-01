@@ -27,6 +27,9 @@ He then swapped this amount for 2,028,367 DAI on Curve y pool. After that, he sw
 
 All of this is possible because of the different stablecoin rate at the various lending protocols. And while 1% difference might not seem like a lot, when one is able to borrow high amounts and arbitrage this difference, the profits can be substantial.
 
+<img src="./arbitrage_schema_example.jpg" width="1600" />
+
+
 ### Uniqueness of the transaction
 What’s unique about flash loans is that the loan is not granted on the basis of the borrower’s profile, documents or collateral (as with traditional finance and even some loans in DeFi) but instead, on the borrower’s ability to prove an immediate yield from the transaction, based on the smart contract they’ve created.
 
