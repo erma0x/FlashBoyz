@@ -1,5 +1,12 @@
-# FlashBoyz
-Intra-blockchain arbitrage smart contract
+
+
+<img src="./banner_flash2.gif" width="1600" />
+
+# FlashBoyz⚡: Intra-blockchain arbitrage smart contract 
+
+
+
+## Description
 
 ## AAVE Flash Loans
   - https://docs.aave.com/developers/guides/flash-loans
